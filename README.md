@@ -1,4 +1,4 @@
-p
+
 <h1>1. What is the difference between var, let, and const?</h1>
 <p>Ans: Var:- 
 Scope:- var is function-scoped. This means a variable declared with var is available anywhere within the function it's defined in, even in nested blocks.
